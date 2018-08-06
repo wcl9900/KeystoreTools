@@ -1,6 +1,6 @@
 # KeystoreTools
 
-    可查看keystore、jks等签名文件的信息，可缓存查询数据结果
+    可查看keystore、jks等签名文件的信息，可拖拽加载，可缓存查询数据结果
 
 # 效果图
   1.查询密码输入
